@@ -1,0 +1,85 @@
+22/06/2021 11:11:23	This log contains information about the import schema operation into project 'ControleTarefas.DB' on computer 'HAKA-PC' by user 'Carlos'.
+22/06/2021 11:11:24	Import of database schema has started.
+22/06/2021 11:11:29	Gathering database credentials
+22/06/2021 11:11:29	Gathering database options
+22/06/2021 11:11:29	Gathering users
+22/06/2021 11:11:29	Gathering roles
+22/06/2021 11:11:29	Gathering application roles
+22/06/2021 11:11:29	Gathering role memberships
+22/06/2021 11:11:29	Gathering filegroups
+22/06/2021 11:11:29	Gathering files
+22/06/2021 11:11:29	Gathering full-text catalogs
+22/06/2021 11:11:29	Gathering assemblies
+22/06/2021 11:11:29	Gathering certificates
+22/06/2021 11:11:29	Gathering asymmetric keys
+22/06/2021 11:11:29	Gathering symmetric keys
+22/06/2021 11:11:29	Gathering encrypted symmetric keys
+22/06/2021 11:11:29	Gathering database encryption keys
+22/06/2021 11:11:29	Gathering schemas
+22/06/2021 11:11:29	Gathering XML schema collections
+22/06/2021 11:11:29	Gathering user-defined data types
+22/06/2021 11:11:29	Gathering user-defined types
+22/06/2021 11:11:29	Gathering table types
+22/06/2021 11:11:29	Gathering unique keys for table types
+22/06/2021 11:11:29	Gathering primary keys for table types
+22/06/2021 11:11:29	Gathering indexes for table types
+22/06/2021 11:11:29	Gathering check constraints for table types
+22/06/2021 11:11:29	Gathering default constraints for table types
+22/06/2021 11:11:29	Gathering partition functions
+22/06/2021 11:11:29	Gathering partition schemes
+22/06/2021 11:11:29	Gathering functions
+22/06/2021 11:11:29	Gathering encrypted functions
+22/06/2021 11:11:29	Gathering aggregates
+22/06/2021 11:11:29	Gathering procedures
+22/06/2021 11:11:29	Gathering encrypted procedures
+22/06/2021 11:11:29	Gathering tables
+22/06/2021 11:11:30	Gathering primary keys
+22/06/2021 11:11:30	Gathering unique constraints
+22/06/2021 11:11:30	Gathering foreign keys
+22/06/2021 11:11:30	Gathering default constraints
+22/06/2021 11:11:30	Gathering check constraints
+22/06/2021 11:11:30	Gathering views
+22/06/2021 11:11:30	Gathering encrypted views
+22/06/2021 11:11:30	Gathering indexes
+22/06/2021 11:11:30	Gathering statistics
+22/06/2021 11:11:30	Gathering full-text index stoplists
+22/06/2021 11:11:30	Gathering search property lists
+22/06/2021 11:11:30	Gathering search properties
+22/06/2021 11:11:30	Gathering full-text indexes
+22/06/2021 11:11:30	Gathering column store indexes
+22/06/2021 11:11:30	Gathering spatial indexes
+22/06/2021 11:11:30	Gathering XML indexes
+22/06/2021 11:11:30	Gathering Selective XML indexes
+22/06/2021 11:11:30	Gathering encrypted triggers
+22/06/2021 11:11:30	Gathering triggers
+22/06/2021 11:11:30	Gathering encrypted and clr ddl triggers
+22/06/2021 11:11:30	Gathering ddl triggers
+22/06/2021 11:11:30	Gathering synonyms
+22/06/2021 11:11:30	Gathering defaults
+22/06/2021 11:11:30	Gathering data constraint uddt bindings
+22/06/2021 11:11:30	Gathering rules
+22/06/2021 11:11:30	Gathering data constraint uddt bindings
+22/06/2021 11:11:30	Gathering message types
+22/06/2021 11:11:30	Gathering queues
+22/06/2021 11:11:30	Gathering contracts
+22/06/2021 11:11:30	Gathering services
+22/06/2021 11:11:30	Gathering routes
+22/06/2021 11:11:30	Gathering event notifications
+22/06/2021 11:11:30	Gathering remote service bindings
+22/06/2021 11:11:30	Gathering broker priorities
+22/06/2021 11:11:30	Gathering database audit specifications
+22/06/2021 11:11:30	Gathering signatures
+22/06/2021 11:11:30	Gathering data compression options
+22/06/2021 11:11:30	Gathering sequence types
+22/06/2021 11:11:30	Gathering security policies
+22/06/2021 11:11:30	Gather column encryption keys
+22/06/2021 11:11:30	Gathering column master keys
+22/06/2021 11:11:30	Gathering external data sources
+22/06/2021 11:11:30	Gathering external file formats
+22/06/2021 11:11:30	Gathering external tables
+22/06/2021 11:11:30	Gathering extended properties
+22/06/2021 11:11:31	Scanning project for duplicate elements
+22/06/2021 11:11:31	Finished duplicate element processing
+22/06/2021 11:11:31	Finished importing database.
+22/06/2021 11:11:31	A summary of the import was saved to the following location: C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\Import Schema Logs\ControleTarefas.DB_20210622021123.log
+22/06/2021 11:11:31	Click Finish to continue...

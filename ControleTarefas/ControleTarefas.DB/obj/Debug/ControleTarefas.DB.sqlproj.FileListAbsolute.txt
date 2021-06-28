@@ -1,0 +1,9 @@
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\bin\Debug\ControleTarefas.DB.dacpac
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\bin\Debug\ControleTarefas.DB.dll
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\bin\Debug\ControleTarefas.DB.pdb
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\obj\Debug\ControleTarefas.DB.dll
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\obj\Debug\ControleTarefas.DB.pdb
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\obj\Debug\Model.xml
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\obj\Debug\refactor.xml
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\obj\Debug\postdeploy.sql
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.DB\obj\Debug\predeploy.sql

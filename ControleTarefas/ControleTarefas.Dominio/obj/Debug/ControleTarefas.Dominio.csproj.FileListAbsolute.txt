@@ -1,0 +1,5 @@
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.Dominio\bin\Debug\ControleTarefas.Dominio.dll
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.Dominio\bin\Debug\ControleTarefas.Dominio.pdb
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.Dominio\obj\Debug\ControleTarefas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.Dominio\obj\Debug\ControleTarefas.Dominio.dll
+C:\Users\Carlos\source\repos\ControleTarefas\ControleTarefas.Dominio\obj\Debug\ControleTarefas.Dominio.pdb
